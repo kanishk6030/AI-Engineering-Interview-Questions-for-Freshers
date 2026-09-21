@@ -15,7 +15,7 @@ These questions are helpful for roles such as:
 ## How this list was built
 
 - **Filtered for fresher level.** Kept concept-first questions you can answer from fundamentals plus one or two projects. Dropped infrastructure-scale and research-level topics (see [What to Skip as a Fresher](#what-to-skip-as-a-fresher)).
-- **Added what the repo lacks.** Fresher interviews still screen classic ML basics (overfitting, bias-variance, precision/recall), so there is a dedicated [ML and Deep Learning Fundamentals](#ml-and-deep-learning-fundamentals) section.
+- **Added what most repositories lacks.** Fresher interviews still screen classic ML basics (overfitting, bias-variance, precision/recall), so there is a dedicated [ML and Deep Learning Fundamentals](#ml-and-deep-learning-fundamentals) section.
 - **Added short answers.** Every question has a crisp answer. Where the original repo has a detailed explanation, it is linked as **Deep dive**.
 - **Marked priorities.** 🔥 = shows up again and again across fresher guides. Prepare these first.
 
