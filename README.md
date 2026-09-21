@@ -2,8 +2,6 @@
 
 > **A focused cheat sheet for entry-level AI / GenAI / LLM roles: the questions that actually get asked, with short answers you can say out loud.**
 
-This list is curated from [amitshekhariitbhu/ai-engineering-interview-questions](https://github.com/amitshekhariitbhu/ai-engineering-interview-questions) (Apache-2.0) and cross-checked against 2026 fresher and entry-level interview guides (see [Sources and Credits](#sources-and-credits)). The original repo is excellent, but a lot of it targets senior engineers (GPU maths, inference engines, RL algorithms, "design Sora at scale"). This edition keeps what a fresher is realistically asked and adds the fundamentals that fresher interviews still screen for.
-
 These questions are helpful for roles such as:
 
 - Junior / Associate AI Engineer
